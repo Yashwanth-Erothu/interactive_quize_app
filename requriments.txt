@@ -1,0 +1,7 @@
+Files organize pattern 
+	-- index.html
+	-- style.css
+	-- script.js
+Complier --> Visual Studio Code
+Browser -->  Edge / Chrome
+ 
