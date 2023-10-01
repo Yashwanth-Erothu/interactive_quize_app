@@ -31,7 +31,7 @@ const Questions = [{
 	a: [{ text: "Great White Shark", isCorrect: false },
 		{ text: "Whale Shark", isCorrect: true },
 		{ text: "Blue Shark", isCorrect: false },
-		{ text: "Grey Shark", isCorrect: false }
+		{ text: "Tiger Shark", isCorrect: false }
 	]
 },
 {
